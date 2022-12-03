@@ -1,0 +1,15 @@
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/dz7_3.csproj.AssemblyReference.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/dz7_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/dz7_3.AssemblyInfoInputs.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/dz7_3.AssemblyInfo.cs
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/dz7_3.csproj.CoreCompileInputs.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/bin/Debug/net6.0/dz7_3
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/bin/Debug/net6.0/dz7_3.deps.json
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/bin/Debug/net6.0/dz7_3.runtimeconfig.json
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/bin/Debug/net6.0/dz7_3.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/bin/Debug/net6.0/dz7_3.pdb
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/dz7_3.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/refint/dz7_3.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/dz7_3.pdb
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/dz7_3.genruntimeconfig.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson7/dz7_3/obj/Debug/net6.0/ref/dz7_3.dll
